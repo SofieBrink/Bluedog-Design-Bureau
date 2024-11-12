@@ -2001,7 +2001,7 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleBdbCutDrogue
+		name = ModuleAutoCutDrogue
 		isEnabled = True
 		autoCutDrogue = True
 		triggered = False
@@ -2126,7 +2126,7 @@ PART
 	}
 	MODULE
 	{
-		name = ModuleBdbCutDrogue
+		name = ModuleAutoCutDrogue
 		isEnabled = True
 		autoCutDrogue = True
 		triggered = False
